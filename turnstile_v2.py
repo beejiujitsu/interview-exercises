@@ -26,7 +26,7 @@ def turnstile(given_tokens):
 def get_change(remaining, change, i):
     if remaining == 0:
         print(f"OPEN{change}")
-        return change
+        return
 
     token = etokens.get(i, 0)
 
