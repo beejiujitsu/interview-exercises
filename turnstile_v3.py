@@ -33,15 +33,12 @@ def get_change(remaining: int, change: List[int], tokens: List[int]):
         return
     if not tokens:
         return get_change(remaining, change, rTokens)
-
     token = tokens[0]
-
     if token > remaining and remaining != 0:
         if len(tokens) == 1:
             return get_change(remaining, change, rTokens)
         else:
             return get_change(remaining, change, tokens[1:])
-
     if token <= remaining:
         return get_change(remaining - token, change + [token], tokens[1:])
 

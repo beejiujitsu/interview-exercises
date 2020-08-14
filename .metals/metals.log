@@ -1,0 +1,457 @@
+2020.08.13 09:27:49 INFO  started: Metals version 0.9.2 in workspace '/home/laebshade/workspace/interview-exercises' for client vscode.
+2020.08.13 09:27:54 INFO  time: initialize in 4.48s
+2020.08.13 09:27:55 WARN  no build tool detected in workspace '/home/laebshade/workspace/interview-exercises'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Aug 13, 2020 9:27:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Aug 13, 2020 9:27:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.08.13 09:28:43 INFO  no build target: using presentation compiler with only scala-library
+2020.08.13 09:28:48 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:28:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Aug 13, 2020 9:28:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Aug 13, 2020 9:28:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Aug 13, 2020 9:28:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Aug 13, 2020 9:28:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2020.08.13 09:28:48 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:29:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+Aug 13, 2020 9:29:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+Aug 13, 2020 9:29:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+2020.08.13 09:29:55 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:29:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 73
+2020.08.13 09:29:59 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[<error>]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 41, 41, 56)
+2020.08.13 09:30:01 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:30:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 135
+2020.08.13 09:30:07 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:30:10 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:30:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 178
+2020.08.13 09:30:16 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:30:25 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:30:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 205
+2020.08.13 09:30:28 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:30:30 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:30:33 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:30:35 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:30:44 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:31:00 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:31:15 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:31:16 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:32:28 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:32:31 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:32:33 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[<error>]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 93, 93, 108)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[Int]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 93, 93, 103)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[Int]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 93, 93, 103)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[Int]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 93, 93, 103)
+2020.08.13 09:32:39 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:32:40 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[<error>]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 111, 111, 126)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[<error>]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 111, 111, 119)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[<error>]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 111, 111, 120)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[Int]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 111, 111, 121)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[Int]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 111, 111, 121)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[Int]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 111, 111, 121)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[Int]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 111, 111, 120)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Seq[<error>]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 111, 111, 124)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Seq[<error>]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 111, 111, 117)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Seq[Int]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 111, 111, 119)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Seq[Int]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 111, 111, 119)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Seq[Int]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 111, 111, 119)
+2020.08.13 09:32:50 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:32:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 546
+2020.08.13 09:32:57 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:32:59 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:04 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:07 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:12 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:15 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:16 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:22 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:24 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:25 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:27 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:33:36 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 162, count -1, length 238
+Aug 13, 2020 9:33:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 682
+2020.08.13 09:33:39 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:41 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:42 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:48 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:33:49 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:34:05 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:34:41 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:34:42 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:34:45 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:34:53 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:34:58 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:35:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 865
+2020.08.13 09:35:11 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:35:15 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:35:21 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:35:25 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:35:29 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:35:32 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:35:37 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:35:47 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:35:48 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:35:58 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:36:00 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:36:01 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:36:04 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:36:09 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:38:16 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:38:18 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:38:24 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:38:28 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:38:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1148
+2020.08.13 09:38:32 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:38:34 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:38:37 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:38:39 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:39:12 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 281, count -1, length 316
+2020.08.13 09:39:15 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:39:16 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:39:19 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:40:41 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:40:46 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:40:52 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:40:57 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:41:03 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:41:05 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:41:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1444
+2020.08.13 09:41:11 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:41:31 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Aug 13, 2020 9:41:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Aug 13, 2020 9:41:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Aug 13, 2020 9:41:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ClassNotFoundException: Solution
+java.util.concurrent.CompletionException: java.lang.ClassNotFoundException: Solution
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:42)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.ClassNotFoundException: Solution
+	at scala.meta.internal.metals.BuildTargetClassesFinder.$anonfun$findClassAndBuildTarget$1(BuildTargetClassesFinder.scala:62)
+	at scala.Option.fold(Option.scala:251)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findClassAndBuildTarget(BuildTargetClassesFinder.scala:63)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findMainClassAndItsBuildTarget(BuildTargetClassesFinder.scala:27)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveMainClassParams$1(DebugProvider.scala:130)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$withRebuildRetry$1.$anonfun$applyOrElse$5(DebugProvider.scala:290)
+	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+Aug 13, 2020 9:41:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Aug 13, 2020 9:42:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.08.13 09:42:58 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:43:14 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:43:37 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:44:00 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:44:04 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:44:07 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:44:13 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:44:17 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:44:22 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:44:23 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:44:26 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:44:29 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:44:34 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:45:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1787
+Aug 13, 2020 9:45:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1813
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[<error>]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 383, 383, 398)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[<error>]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 383, 383, 391)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[String]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 383, 383, 396)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[String]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 383, 383, 396)
+something's wrong: no file:///home/laebshade/workspace/interview-exercises/RunningSum.scala in Array[String]RangePosition(file:///home/laebshade/workspace/interview-exercises/RunningSum.scala, 383, 383, 396)
+2020.08.13 09:45:29 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:45:32 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 9:45:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1890
+2020.08.13 09:45:41 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:45:45 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:45:47 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:45:58 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 09:46:17 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 10:01:34 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 10:01:48 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 10:01:53 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 10:01:57 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 10:01:59 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+Aug 13, 2020 10:02:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ClassNotFoundException: Solution
+java.util.concurrent.CompletionException: java.lang.ClassNotFoundException: Solution
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:42)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.ClassNotFoundException: Solution
+	at scala.meta.internal.metals.BuildTargetClassesFinder.$anonfun$findClassAndBuildTarget$1(BuildTargetClassesFinder.scala:62)
+	at scala.Option.fold(Option.scala:251)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findClassAndBuildTarget(BuildTargetClassesFinder.scala:63)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findMainClassAndItsBuildTarget(BuildTargetClassesFinder.scala:27)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveMainClassParams$1(DebugProvider.scala:130)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$withRebuildRetry$1.$anonfun$applyOrElse$5(DebugProvider.scala:290)
+	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+2020.08.13 10:02:54 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 10:03:05 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 10:03:07 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 10:03:10 WARN  no build target for: /home/laebshade/workspace/interview-exercises/RunningSum.scala
+2020.08.13 10:57:56 INFO  shutting down Metals
+2020.08.14 11:34:55 INFO  started: Metals version 0.9.2 in workspace '/home/laebshade/workspace/interview-exercises' for client vscode.
+2020.08.14 11:34:57 INFO  time: initialize in 2.23s
+2020.08.14 11:34:59 WARN  no build tool detected in workspace '/home/laebshade/workspace/interview-exercises'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Aug 14, 2020 11:34:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ClassNotFoundException: Solution
+java.util.concurrent.CompletionException: java.lang.ClassNotFoundException: Solution
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:42)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.ClassNotFoundException: Solution
+	at scala.meta.internal.metals.BuildTargetClassesFinder.$anonfun$findClassAndBuildTarget$1(BuildTargetClassesFinder.scala:62)
+	at scala.Option.fold(Option.scala:251)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findClassAndBuildTarget(BuildTargetClassesFinder.scala:63)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findMainClassAndItsBuildTarget(BuildTargetClassesFinder.scala:27)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveMainClassParams$1(DebugProvider.scala:130)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$withRebuildRetry$1.$anonfun$applyOrElse$5(DebugProvider.scala:290)
+	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+Aug 14, 2020 11:35:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ClassNotFoundException: Solution
+java.util.concurrent.CompletionException: java.lang.ClassNotFoundException: Solution
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:42)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.ClassNotFoundException: Solution
+	at scala.meta.internal.metals.BuildTargetClassesFinder.$anonfun$findClassAndBuildTarget$1(BuildTargetClassesFinder.scala:62)
+	at scala.Option.fold(Option.scala:251)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findClassAndBuildTarget(BuildTargetClassesFinder.scala:63)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findMainClassAndItsBuildTarget(BuildTargetClassesFinder.scala:27)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveMainClassParams$1(DebugProvider.scala:130)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$withRebuildRetry$1.$anonfun$applyOrElse$5(DebugProvider.scala:290)
+	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+Aug 14, 2020 11:35:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ClassNotFoundException: Solution
+java.util.concurrent.CompletionException: java.lang.ClassNotFoundException: Solution
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:42)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.ClassNotFoundException: Solution
+	at scala.meta.internal.metals.BuildTargetClassesFinder.$anonfun$findClassAndBuildTarget$1(BuildTargetClassesFinder.scala:62)
+	at scala.Option.fold(Option.scala:251)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findClassAndBuildTarget(BuildTargetClassesFinder.scala:63)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findMainClassAndItsBuildTarget(BuildTargetClassesFinder.scala:27)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveMainClassParams$1(DebugProvider.scala:130)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$withRebuildRetry$1.$anonfun$applyOrElse$5(DebugProvider.scala:290)
+	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+2020.08.14 11:36:42 INFO  shutting down Metals
+2020.08.14 11:37:02 INFO  started: Metals version 0.9.2 in workspace '/home/laebshade/workspace/interview-exercises' for client vscode.
+2020.08.14 11:37:05 INFO  time: initialize in 2.58s
+2020.08.14 11:37:07 WARN  no build tool detected in workspace '/home/laebshade/workspace/interview-exercises'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Aug 14, 2020 11:37:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ClassNotFoundException: Solution
+java.util.concurrent.CompletionException: java.lang.ClassNotFoundException: Solution
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:42)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.ClassNotFoundException: Solution
+	at scala.meta.internal.metals.BuildTargetClassesFinder.$anonfun$findClassAndBuildTarget$1(BuildTargetClassesFinder.scala:62)
+	at scala.Option.fold(Option.scala:251)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findClassAndBuildTarget(BuildTargetClassesFinder.scala:63)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findMainClassAndItsBuildTarget(BuildTargetClassesFinder.scala:27)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveMainClassParams$1(DebugProvider.scala:130)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$withRebuildRetry$1.$anonfun$applyOrElse$5(DebugProvider.scala:290)
+	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+2020.08.14 11:37:41 INFO  shutting down Metals
